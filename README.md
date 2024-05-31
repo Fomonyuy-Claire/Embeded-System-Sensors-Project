@@ -1,5 +1,5 @@
 
-
+# Embeded-System-Sensors-Project
 
 This repository contains both Arduino and Proteus Sensor projects developed, designed and and simulated 
 Note that all the projects with codes have the ".ino" extensions are the the arduino files containing the code used to simulate the project
